@@ -1,1 +1,2 @@
 Seccion 1: Introduccion a Git\n Seccion 2: Flujo de trabajo basico\n Seccion 3: Repositorios remotos
+Sección 1: Introducción a Git n Sección 2: Flujo de trabajo básicon Sección 3: Gestión de ramasn Sección 4: Repositorios remotos
